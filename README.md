@@ -13,11 +13,11 @@ Le projet a la structure suivante :
 
 L'analyse est divisée en trois parties principales :
 
-1. Analyse descriptive : Cela implique de comprendre le jeu de données, de vérifier les valeurs nulles et d'avoir une idée des données.
+1. __Analyse descriptive__ : Cela implique de comprendre le jeu de données, de vérifier les valeurs nulles et d'avoir une idée des données.
 
-2. Analyse prédictive : Cela implique de créer un modèle de régression linéaire pour prédire les ventes en fonction de la quantité et de la remise. Le modèle est entraîné sur les colonnes 'Quantity' et 'Discount' du dataframe. La colonne 'Sales' est la variable cible.
+2. __Analyse prédictive__ : Cela implique de créer un modèle de régression linéaire pour prédire les ventes en fonction de la quantité et de la remise. Le modèle est entraîné sur les colonnes 'Quantity' et 'Discount' du dataframe. La colonne 'Sales' est la variable cible.
 
-3. Analyse prescriptive : Cela implique de prendre des décisions commerciales basées sur l'analyse. Par exemple, identifier les produits avec des taux de retour élevés et ajuster les prix et les remises pour maximiser les ventes.
+3. __Analyse prescriptive__ : Cela implique de prendre des décisions commerciales basées sur l'analyse. Par exemple, identifier les produits avec des taux de retour élevés et ajuster les prix et les remises pour maximiser les ventes.
 
 ## Bibliothèques Utilisées
 
