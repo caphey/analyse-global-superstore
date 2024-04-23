@@ -6,8 +6,8 @@ Ce projet implique l'analyse du jeu de données du Superstore Global 2018. Le je
 
 Le projet a la structure suivante :
 
-* `Global_Superstore_2018.xlsx`: C'est le jeu de données principal utilisé pour l'analyse. Il contient trois feuilles : Orders, People et Regions.
-* `notebook.ipynb`: Ce notebook Jupyter contient tout le code utilisé pour l'analyse.
+* [Global_Superstore_2018.xlsx](https://github.com/caphey/analyse-global-superstore/blob/main/Global_Superstore_2018.xlsx) : C'est le jeu de données principal utilisé pour l'analyse. Il contient trois feuilles : Orders, People et Regions.
+* [notebook.ipynb](https://github.com/caphey/analyse-global-superstore/blob/main/notebook.ipynb) : Ce notebook Jupyter contient tout le code utilisé pour l'analyse.
 
 ## Analyse
 
