@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Data
+data/*
+!data/.gitkeep
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
